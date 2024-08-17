@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://vikyblog.github.io"
+    "https://vikyblog.github.io",
+    "https://vickyblog.vercel.app"
   ]
 }
